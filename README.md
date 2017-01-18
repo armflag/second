@@ -1,1 +1,5 @@
-## second add new message AND simple
+<<<<<<< HEAD
+## second add new message & simple
+=======
+## second add new message & simple
+>>>>>>> feature
